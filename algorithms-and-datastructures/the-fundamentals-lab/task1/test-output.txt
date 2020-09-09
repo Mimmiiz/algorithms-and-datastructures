@@ -1,0 +1,26 @@
+Press enter to start.
+******************TEST*******************
+This is a test function for recursive_reverse.
+Test if input generates the correct output. 
+Input:
+123TEST
+Expected output:
+TSET321
+Output: 
+TSET321
+***************************************
+******************TEST*******************
+This is a test function for iterative_reverse.
+Test if input generates the correct output. 
+Input: 
+123TEST
+Expected output: 
+TSET321
+Output: 
+TSET321
+Test entering too many characters: 
+Expected output: 
+You have entered too many characters.
+Output: 
+You have entered too many characters.
+***************************************

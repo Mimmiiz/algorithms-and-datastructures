@@ -1,0 +1,5 @@
+Press enter to start.
+Enter some text (recursive): 
+321CBA
+Enter some text, max 20 characters including spaces (iterative): 
+321cba
