@@ -1,0 +1,6 @@
+Enter array size: 
+Enter 10 numbers to the array: 
+0, 1, 2, 4, 5, 5, 6, 7, 7, 8
+Test median of threes
+Enter 3 integers to find median:
+Median: 3

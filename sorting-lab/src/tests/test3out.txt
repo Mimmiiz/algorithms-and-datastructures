@@ -1,0 +1,12 @@
+Enter array size: 
+Enter 4 numbers to the array: 
+[0, 4], [1, 2]
+[0, 4], [2, 3]
+[0, 4], [3, 1]
+[1, 2], [3, 1]
+[2, 3], [3, 1]
+Number of inversions: 5
+2, 4, 3, 1
+2, 3, 4, 1
+1, 2, 3, 4
+Number of swaps: 5
